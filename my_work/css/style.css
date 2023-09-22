@@ -216,45 +216,6 @@
     line-height: normal;
 }
 
-.frame .div-2 {
-    position: absolute;
-    width: 378px;
-    height: 378px;
-    top: 220px;
-    left: 94px;
-    border: 1px solid;
-    border-color: #000000;
-    background-image: url(./img/rut-miit-hprgrfoiybc-unsplash-1.png);
-    background-size: cover;
-    background-position: 50% 50%;
-}
-
-.frame .div-3 {
-    top: 725px;
-    background-image: url(./img/ux-indonesia-qc2n6rqu4vw-unsplash-1.png);
-    position: absolute;
-    width: 378px;
-    height: 378px;
-    left: 94px;
-    border: 1px solid;
-    border-color: #000000;
-    background-size: cover;
-    background-position: 50% 50%;
-}
-
-.frame .div-4 {
-    top: 1230px;
-    background-image: url(./img/markus-spiske-ygn967affe4-unsplash-1.png);
-    position: absolute;
-    width: 378px;
-    height: 378px;
-    left: 94px;
-    border: 1px solid;
-    border-color: #000000;
-    background-size: cover;
-    background-position: 50% 50%;
-}
-
 .frame .div-wrapper {
     position: absolute;
     width: 522px;
@@ -282,4 +243,28 @@
     letter-spacing: 0;
     line-height: normal;
     white-space: nowrap;
+}
+
+.frame .student-experience {
+    position: absolute;
+    width: 372px;
+    height: 378px;
+    top: 220px;
+    left: 97px;
+}
+
+.frame .design {
+    position: absolute;
+    width: 378px;
+    height: 378px;
+    top: 725px;
+    left: 94px;
+}
+
+.frame .battery-charger {
+    position: absolute;
+    width: 377px;
+    height: 379px;
+    top: 1229px;
+    left: 97px;
 }
